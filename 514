@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>白家硕的网站</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+	  <div style="
+    background-color: #f1a1;
+    text-align: center;
+    padding:40px;
+    ">
+	  <div style="
+     max-width:760px;
+      margin:30px auto;
+      padding: 15px;
+      line-height:1.7;
+      color:purple;
+    ">
+      <p></p>下面的网站是我收藏的宝藏网站！
+      <p></p>1、ACFUN
+      <p></p>国内第一个弹幕网站
+      <a href="https://www.acfun.cn/">友情链接</a>
+      <p></p>2、腾讯视频
+      <p></p>国内影视的“百科全书”
+      <a href="https://v.qq.com/channel/choice?channel_2022=1">友情链接</a>
+      <p></p>3、爱奇艺
+      <p></p>拥有许多有趣的综艺和电视剧
+      <a href="https://www.iqiyi.com/">友情链接</a>
+      <p></p>4、哔哩哔哩
+      <p></p>此为番剧与教学的“百科全书”
+      <a href="https://www.bilibili.com/?spm_id_from=333.788.0.0">友情链接</a>
+      <p></p>我相信你会爱上它们的！
+    </div>
+	  <div style="
+    background-color: #f1f1;
+    text-align: center;
+    padding:40px;
+    font-size:12px;
+    ">
+    <p>返回首页</p>
+    <a href="bjs114.github.io">首页</a>
+    </div>
+  </body>
+</html>
